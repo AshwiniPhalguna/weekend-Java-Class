@@ -1,0 +1,11 @@
+package SecondPackage;
+
+public class secondProgram {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String text = "Welcome to my home";
+
+	}
+
+}

@@ -1,0 +1,18 @@
+package SecondPackage;
+
+public class newProgram {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		/*int x,y,z;
+		x= 550;
+		y= 350;
+		z= x+y;
+		System.out.println(z);*/
+		
+		System.out.println("The value of addition is"+z);
+
+	}
+
+}
